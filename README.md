@@ -1,6 +1,6 @@
 # frp-app
 =======
-# Freestyle Rap Practice App
+# Freestyle rap Practice Application
 
 This application helps users practice freestyle rapping. Below is an outline of the project:
 
